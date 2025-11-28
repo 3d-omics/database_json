@@ -100,6 +100,10 @@ def generate_experiment_hierarchy(
         treatment_code = fields.get("Treatment_flat")
         weight = fields.get("Weight")
         sex = fields.get("Sex")
+        species_scientific = fields.get("species_scientific")
+        species_common = fields.get("species_common")
+        taxid = fields.get("taxid")
+        lifestage = fields.get("lifestage")
 
         if not (specimen_id and biosample and linked_experiments):
             continue
@@ -114,6 +118,22 @@ def generate_experiment_hierarchy(
             individual_data["Weight"] = weight
         if sex:
             individual_data["Sex"] = sex[0] if isinstance(sex, list) else sex
+        if species_scientific:
+            individual_data["Species (scientific name)"] = (
+                species_scientific[0]
+                if isinstance(species_scientific, list)
+                else species_scientific
+            )
+        if species_common:
+            individual_data["Species (common name)"] = (
+                species_common[0] if isinstance(species_common, list) else species_common
+            )
+        if taxid:
+            individual_data["Species (taxid)"] = taxid[0] if isinstance(taxid, list) else taxid
+        if lifestage:
+            individual_data["Lifestage"] = (
+                lifestage[0] if isinstance(lifestage, list) else lifestage
+            )
 
         individuals[specimen_id] = individual_data
 
