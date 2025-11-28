@@ -279,6 +279,7 @@
       "Biosample accession": "SAMEA120503842",
       "Treatment": "TC1",
       "Weight": 17.6,
+      "Sex": "male",
       "Macrosample IDs": [
         "C001aF",
         "C001aI",
@@ -290,6 +291,7 @@
       "Biosample accession": "SAMEA120503843",
       "Treatment": "TC1",
       "Weight": 14.6,
+      "Sex": "male",
       "Macrosample IDs": [
         "C002aI",
         "C002aK",
@@ -301,6 +303,7 @@
       "Biosample accession": "SAMEA120503844",
       "Treatment": "TC1",
       "Weight": 15.2,
+      "Sex": "male",
       "Macrosample IDs": [
         "C003aH",
         "C003aI",
@@ -312,6 +315,7 @@
       "Biosample accession": "SAMEA120503845",
       "Treatment": "TC2",
       "Weight": 17.5,
+      "Sex": "male",
       "Macrosample IDs": [
         "C004aI",
         "C004aH",
@@ -323,6 +327,7 @@
       "Biosample accession": "SAMEA120503846",
       "Treatment": "TC2",
       "Weight": 16.3,
+      "Sex": "male",
       "Macrosample IDs": [
         "C005aI",
         "C005aK",
@@ -334,6 +339,7 @@
       "Biosample accession": "SAMEA120503847",
       "Treatment": "TC2",
       "Weight": 18.3,
+      "Sex": "male",
       "Macrosample IDs": [
         "C006aH",
         "C006aF",
@@ -345,6 +351,7 @@
       "Biosample accession": "SAMEA120503848",
       "Treatment": "TC3",
       "Weight": 18.3,
+      "Sex": "male",
       "Macrosample IDs": [
         "C007aH",
         "C007aI",
@@ -356,6 +363,7 @@
       "Biosample accession": "SAMEA120503849",
       "Treatment": "TC3",
       "Weight": 17.3,
+      "Sex": "male",
       "Macrosample IDs": [
         "C008aF",
         "C008aK",
@@ -367,6 +375,7 @@
       "Biosample accession": "SAMEA120503850",
       "Treatment": "TC3",
       "Weight": 18,
+      "Sex": "male",
       "Macrosample IDs": [
         "C009aH",
         "C009aI",
@@ -378,6 +387,7 @@
       "Biosample accession": "SAMEA120503851",
       "Treatment": "TC4",
       "Weight": 18.7,
+      "Sex": "male",
       "Macrosample IDs": [
         "C010aK",
         "C010aH",
@@ -389,6 +399,7 @@
       "Biosample accession": "SAMEA120503852",
       "Treatment": "TC4",
       "Weight": 17.6,
+      "Sex": "male",
       "Macrosample IDs": [
         "C011aK",
         "C011aF",
@@ -400,6 +411,7 @@
       "Biosample accession": "SAMEA120503853",
       "Treatment": "TC4",
       "Weight": 16.2,
+      "Sex": "male",
       "Macrosample IDs": [
         "C012aF",
         "C012aH",
@@ -411,6 +423,7 @@
       "Biosample accession": "SAMEA118545874",
       "Treatment": "TG1",
       "Weight": 0.15,
+      "Sex": "female",
       "Macrosample IDs": [
         "G002aJ",
         "G002aM",
@@ -421,6 +434,7 @@
       "Biosample accession": "SAMEA118545875",
       "Treatment": "TG1",
       "Weight": 0.13,
+      "Sex": "female",
       "Macrosample IDs": [
         "G003aJ",
         "G003aM",
@@ -431,6 +445,7 @@
       "Biosample accession": "SAMEA118545876",
       "Treatment": "TG1",
       "Weight": 0.13,
+      "Sex": "male",
       "Macrosample IDs": [
         "G004aJ",
         "G004aM",
@@ -441,6 +456,7 @@
       "Biosample accession": "SAMEA118545879",
       "Treatment": "TG1",
       "Weight": 0.4,
+      "Sex": "female",
       "Macrosample IDs": [
         "G005bJ",
         "G005bM",
@@ -451,6 +467,7 @@
       "Biosample accession": "SAMEA118545877",
       "Treatment": "TG1",
       "Weight": 0.345,
+      "Sex": "female",
       "Macrosample IDs": [
         "G006bJ",
         "G006bM",
@@ -461,6 +478,7 @@
       "Biosample accession": "SAMEA118545878",
       "Treatment": "TG1",
       "Weight": 0.38,
+      "Sex": "female",
       "Macrosample IDs": [
         "G007bJ",
         "G007bM",
@@ -471,6 +489,7 @@
       "Biosample accession": "SAMEA118545882",
       "Treatment": "TG1",
       "Weight": 0.74,
+      "Sex": "female",
       "Macrosample IDs": [
         "G008cJ",
         "G008cM",
@@ -481,6 +500,7 @@
       "Biosample accession": "SAMEA118545883",
       "Treatment": "TG1",
       "Weight": 0.72,
+      "Sex": "female",
       "Macrosample IDs": [
         "G009cJ",
         "G009cM",
@@ -491,6 +511,7 @@
       "Biosample accession": "SAMEA118545884",
       "Treatment": "TG1",
       "Weight": 0.74,
+      "Sex": "female",
       "Macrosample IDs": [
         "G010cJ",
         "G010cM",
@@ -501,6 +522,7 @@
       "Biosample accession": "SAMEA118545880",
       "Treatment": "TG1",
       "Weight": 0.865,
+      "Sex": "male",
       "Macrosample IDs": [
         "G011cJ",
         "G011cM",
@@ -511,6 +533,7 @@
       "Biosample accession": "SAMEA118545881",
       "Treatment": "TG1",
       "Weight": 0.635,
+      "Sex": "male",
       "Macrosample IDs": [
         "G012cJ",
         "G012cM",
@@ -521,6 +544,7 @@
       "Biosample accession": "SAMEA118545888",
       "Treatment": "TG1",
       "Weight": 1.46,
+      "Sex": "male",
       "Macrosample IDs": [
         "G013dJ",
         "G013dM",
@@ -531,6 +555,7 @@
       "Biosample accession": "SAMEA118545889",
       "Treatment": "TG1",
       "Weight": 1,
+      "Sex": "female",
       "Macrosample IDs": [
         "G014dJ",
         "G014dM",
@@ -541,6 +566,7 @@
       "Biosample accession": "SAMEA118545885",
       "Treatment": "TG1",
       "Weight": 1.3,
+      "Sex": "male",
       "Macrosample IDs": [
         "G016dJ",
         "G016dM",
@@ -551,6 +577,7 @@
       "Biosample accession": "SAMEA118545886",
       "Treatment": "TG1",
       "Weight": 1.15,
+      "Sex": "male",
       "Macrosample IDs": [
         "G017dJ",
         "G017dM",
@@ -561,6 +588,7 @@
       "Biosample accession": "SAMEA118545887",
       "Treatment": "TG1",
       "Weight": 1.1,
+      "Sex": "female",
       "Macrosample IDs": [
         "G018dJ",
         "G018dM",
@@ -571,6 +599,7 @@
       "Biosample accession": "SAMEA118545891",
       "Treatment": "TG1",
       "Weight": 1.76,
+      "Sex": "male",
       "Macrosample IDs": [
         "G019eJ",
         "G019eM",
@@ -581,6 +610,7 @@
       "Biosample accession": "SAMEA118545894",
       "Treatment": "TG1",
       "Weight": 1.77,
+      "Sex": "female",
       "Macrosample IDs": [
         "G020eJ",
         "G020eM",
@@ -591,6 +621,7 @@
       "Biosample accession": "SAMEA118545890",
       "Treatment": "TG1",
       "Weight": 2,
+      "Sex": "male",
       "Macrosample IDs": [
         "G021eJ",
         "G021eM",
@@ -601,6 +632,7 @@
       "Biosample accession": "SAMEA118545892",
       "Treatment": "TG1",
       "Weight": 2.2,
+      "Sex": "male",
       "Macrosample IDs": [
         "G023eJ",
         "G023eM",
@@ -611,6 +643,7 @@
       "Biosample accession": "SAMEA118545893",
       "Treatment": "TG1",
       "Weight": 2,
+      "Sex": "male",
       "Macrosample IDs": [
         "G024eJ",
         "G024eM",
@@ -621,6 +654,7 @@
       "Biosample accession": "SAMEA118545895",
       "Treatment": "TG2",
       "Weight": 0.09,
+      "Sex": "male",
       "Macrosample IDs": [
         "G026aJ",
         "G026aM",
@@ -631,6 +665,7 @@
       "Biosample accession": "SAMEA118545896",
       "Treatment": "TG2",
       "Weight": 0.125,
+      "Sex": "female",
       "Macrosample IDs": [
         "G027aJ",
         "G027aM",
@@ -641,6 +676,7 @@
       "Biosample accession": "SAMEA118545897",
       "Treatment": "TG2",
       "Weight": 0.145,
+      "Sex": "female",
       "Macrosample IDs": [
         "G028aJ",
         "G028aM",
@@ -651,6 +687,7 @@
       "Biosample accession": "SAMEA118545898",
       "Treatment": "TG2",
       "Weight": 0.15,
+      "Sex": "male",
       "Macrosample IDs": [
         "G029aJ",
         "G029aM",
@@ -661,6 +698,7 @@
       "Biosample accession": "SAMEA118545902",
       "Treatment": "TG2",
       "Weight": 0.37,
+      "Sex": "male",
       "Macrosample IDs": [
         "G030bJ",
         "G030bM",
@@ -671,6 +709,7 @@
       "Biosample accession": "SAMEA118545899",
       "Treatment": "TG2",
       "Weight": 0.36,
+      "Sex": "male",
       "Macrosample IDs": [
         "G031bJ",
         "G031bM",
@@ -681,6 +720,7 @@
       "Biosample accession": "SAMEA118545900",
       "Treatment": "TG2",
       "Weight": 0.325,
+      "Sex": "female",
       "Macrosample IDs": [
         "G032bJ",
         "G032bM",
@@ -691,6 +731,7 @@
       "Biosample accession": "SAMEA118545901",
       "Treatment": "TG2",
       "Weight": 0.355,
+      "Sex": "male",
       "Macrosample IDs": [
         "G033bJ",
         "G033bM",
@@ -701,6 +742,7 @@
       "Biosample accession": "SAMEA118545905",
       "Treatment": "TG2",
       "Weight": 0.76,
+      "Sex": "male",
       "Macrosample IDs": [
         "G035cJ",
         "G035cM",
@@ -711,6 +753,7 @@
       "Biosample accession": "SAMEA118545903",
       "Treatment": "TG2",
       "Weight": 0.77,
+      "Sex": "male",
       "Macrosample IDs": [
         "G036cJ",
         "G036cM",
@@ -721,6 +764,7 @@
       "Biosample accession": "SAMEA118545904",
       "Treatment": "TG2",
       "Weight": 0.63,
+      "Sex": "female",
       "Macrosample IDs": [
         "G037cJ",
         "G037cM",
@@ -731,6 +775,7 @@
       "Biosample accession": "SAMEA118545906",
       "Treatment": "TG2",
       "Weight": 0.71,
+      "Sex": "female",
       "Macrosample IDs": [
         "G039cJ",
         "G039cM",
@@ -741,6 +786,7 @@
       "Biosample accession": "SAMEA118545907",
       "Treatment": "TG2",
       "Weight": 0.7,
+      "Sex": "female",
       "Macrosample IDs": [
         "G040cJ",
         "G040cM",
@@ -751,6 +797,7 @@
       "Biosample accession": "SAMEA118545908",
       "Treatment": "TG2",
       "Weight": 1.2,
+      "Sex": "male",
       "Macrosample IDs": [
         "G041dJ",
         "G041dM",
@@ -761,6 +808,7 @@
       "Biosample accession": "SAMEA118545909",
       "Treatment": "TG2",
       "Weight": 1.1,
+      "Sex": "female",
       "Macrosample IDs": [
         "G042dJ",
         "G042dM",
@@ -771,6 +819,7 @@
       "Biosample accession": "SAMEA118545910",
       "Treatment": "TG2",
       "Weight": 1.1,
+      "Sex": "female",
       "Macrosample IDs": [
         "G043dJ",
         "G043dM",
@@ -781,6 +830,7 @@
       "Biosample accession": "SAMEA118545911",
       "Treatment": "TG2",
       "Weight": 1.1,
+      "Sex": "female",
       "Macrosample IDs": [
         "G044dJ",
         "G044dM",
@@ -791,6 +841,7 @@
       "Biosample accession": "SAMEA118545912",
       "Treatment": "TG2",
       "Weight": 1.38,
+      "Sex": "male",
       "Macrosample IDs": [
         "G045dJ",
         "G045dM",
@@ -801,6 +852,7 @@
       "Biosample accession": "SAMEA118545913",
       "Treatment": "TG2",
       "Weight": 1.9,
+      "Sex": "female",
       "Macrosample IDs": [
         "G046eJ",
         "G046eM",
@@ -811,6 +863,7 @@
       "Biosample accession": "SAMEA118545914",
       "Treatment": "TG2",
       "Weight": 1.9,
+      "Sex": "female",
       "Macrosample IDs": [
         "G047eJ",
         "G047eM",
@@ -821,6 +874,7 @@
       "Biosample accession": "SAMEA118545915",
       "Treatment": "TG2",
       "Weight": 1.57,
+      "Sex": "male",
       "Macrosample IDs": [
         "G048eJ",
         "G048eM",
@@ -831,6 +885,7 @@
       "Biosample accession": "SAMEA118545916",
       "Treatment": "TG2",
       "Weight": 1.8,
+      "Sex": "male",
       "Macrosample IDs": [
         "G049eJ",
         "G049eM",
@@ -841,6 +896,7 @@
       "Biosample accession": "SAMEA118545917",
       "Treatment": "TG2",
       "Weight": 1.8,
+      "Sex": "female",
       "Macrosample IDs": [
         "G050eJ",
         "G050eM",
@@ -851,6 +907,7 @@
       "Biosample accession": "SAMEA118545918",
       "Treatment": "TG3",
       "Weight": 0.14,
+      "Sex": "female",
       "Macrosample IDs": [
         "G051aJ",
         "G051aM",
@@ -861,6 +918,7 @@
       "Biosample accession": "SAMEA118545919",
       "Treatment": "TG3",
       "Weight": 0.125,
+      "Sex": "male",
       "Macrosample IDs": [
         "G052aJ",
         "G052aM",
@@ -871,6 +929,7 @@
       "Biosample accession": "SAMEA118545920",
       "Treatment": "TG3",
       "Weight": 0.12,
+      "Sex": "female",
       "Macrosample IDs": [
         "G053aJ",
         "G053aM",
@@ -881,6 +940,7 @@
       "Biosample accession": "SAMEA118545921",
       "Treatment": "TG3",
       "Weight": 0.13,
+      "Sex": "male",
       "Macrosample IDs": [
         "G054aJ",
         "G054aM",
@@ -891,6 +951,7 @@
       "Biosample accession": "SAMEA118545926",
       "Treatment": "TG3",
       "Weight": 0.37,
+      "Sex": "female",
       "Macrosample IDs": [
         "G055bJ",
         "G055bM",
@@ -901,6 +962,7 @@
       "Biosample accession": "SAMEA118545922",
       "Treatment": "TG3",
       "Weight": 0.34,
+      "Sex": "male",
       "Macrosample IDs": [
         "G056bJ",
         "G056bM",
@@ -911,6 +973,7 @@
       "Biosample accession": "SAMEA118545923",
       "Treatment": "TG3",
       "Weight": 0.335,
+      "Sex": "male",
       "Macrosample IDs": [
         "G057bJ",
         "G057bM",
@@ -921,6 +984,7 @@
       "Biosample accession": "SAMEA118545924",
       "Treatment": "TG3",
       "Weight": 0.315,
+      "Sex": "female",
       "Macrosample IDs": [
         "G058bJ",
         "G058bM",
@@ -931,6 +995,7 @@
       "Biosample accession": "SAMEA118545925",
       "Treatment": "TG3",
       "Weight": 0.333,
+      "Sex": "female",
       "Macrosample IDs": [
         "G059bJ",
         "G059bM",
@@ -941,6 +1006,7 @@
       "Biosample accession": "SAMEA118545931",
       "Treatment": "TG3",
       "Weight": 0.79,
+      "Sex": "male",
       "Macrosample IDs": [
         "G060cJ",
         "G060cM",
@@ -951,6 +1017,7 @@
       "Biosample accession": "SAMEA118545927",
       "Treatment": "TG3",
       "Weight": 0.71,
+      "Sex": "male",
       "Macrosample IDs": [
         "G061cJ",
         "G061cM",
@@ -961,6 +1028,7 @@
       "Biosample accession": "SAMEA118545928",
       "Treatment": "TG3",
       "Weight": 0.625,
+      "Sex": "male",
       "Macrosample IDs": [
         "G062cJ",
         "G062cM",
@@ -971,6 +1039,7 @@
       "Biosample accession": "SAMEA118545929",
       "Treatment": "TG3",
       "Weight": 0.84,
+      "Sex": "female",
       "Macrosample IDs": [
         "G063cJ",
         "G063cM",
@@ -981,6 +1050,7 @@
       "Biosample accession": "SAMEA118545930",
       "Treatment": "TG3",
       "Weight": 0.73,
+      "Sex": "female",
       "Macrosample IDs": [
         "G064cJ",
         "G064cM",
@@ -991,6 +1061,7 @@
       "Biosample accession": "SAMEA118545934",
       "Treatment": "TG3",
       "Weight": 1.1,
+      "Sex": "female",
       "Macrosample IDs": [
         "G065dJ",
         "G065dM",
@@ -1001,6 +1072,7 @@
       "Biosample accession": "SAMEA118545932",
       "Treatment": "TG3",
       "Weight": 1.2,
+      "Sex": "female",
       "Macrosample IDs": [
         "G066dJ",
         "G066dM",
@@ -1011,6 +1083,7 @@
       "Biosample accession": "SAMEA118545933",
       "Treatment": "TG3",
       "Weight": 1.15,
+      "Sex": "female",
       "Macrosample IDs": [
         "G067dJ",
         "G067dM",
@@ -1021,6 +1094,7 @@
       "Biosample accession": "SAMEA118545935",
       "Treatment": "TG3",
       "Weight": 0.96,
+      "Sex": "female",
       "Macrosample IDs": [
         "G069dJ",
         "G069dM",
@@ -1031,6 +1105,7 @@
       "Biosample accession": "SAMEA118545936",
       "Treatment": "TG3",
       "Weight": 1.3,
+      "Sex": "male",
       "Macrosample IDs": [
         "G070dJ",
         "G070dM",
@@ -1041,6 +1116,7 @@
       "Biosample accession": "SAMEA118545937",
       "Treatment": "TG3",
       "Weight": 1.64,
+      "Sex": "female",
       "Macrosample IDs": [
         "G071eJ",
         "G071eM",
@@ -1051,6 +1127,7 @@
       "Biosample accession": "SAMEA118545938",
       "Treatment": "TG3",
       "Weight": 1.7,
+      "Sex": "female",
       "Macrosample IDs": [
         "G072eJ",
         "G072eM",
@@ -1061,6 +1138,7 @@
       "Biosample accession": "SAMEA118545939",
       "Treatment": "TG3",
       "Weight": 1.5,
+      "Sex": "male",
       "Macrosample IDs": [
         "G073eJ",
         "G073eM",
@@ -1071,6 +1149,7 @@
       "Biosample accession": "SAMEA118545940",
       "Treatment": "TG3",
       "Weight": 2.1,
+      "Sex": "female",
       "Macrosample IDs": [
         "G074eJ",
         "G074eM",
@@ -1081,6 +1160,7 @@
       "Biosample accession": "SAMEA118545941",
       "Treatment": "TG3",
       "Weight": 1.75,
+      "Sex": "female",
       "Macrosample IDs": [
         "G075eJ",
         "G075eM",
@@ -1091,6 +1171,7 @@
       "Biosample accession": "SAMEA118545942",
       "Treatment": "TG4",
       "Weight": 0.155,
+      "Sex": "male",
       "Macrosample IDs": [
         "G076aJ",
         "G076aM",
@@ -1101,6 +1182,7 @@
       "Biosample accession": "SAMEA118545943",
       "Treatment": "TG4",
       "Weight": 0.135,
+      "Sex": "female",
       "Macrosample IDs": [
         "G077aJ",
         "G077aM",
@@ -1111,6 +1193,7 @@
       "Biosample accession": "SAMEA118545944",
       "Treatment": "TG4",
       "Weight": 0.105,
+      "Sex": "female",
       "Macrosample IDs": [
         "G078aM",
         "G078aN"
@@ -1120,6 +1203,7 @@
       "Biosample accession": "SAMEA118545945",
       "Treatment": "TG4",
       "Weight": 0.13,
+      "Sex": "female",
       "Macrosample IDs": [
         "G079aJ",
         "G079aM",
@@ -1130,6 +1214,7 @@
       "Biosample accession": "SAMEA118545949",
       "Treatment": "TG4",
       "Weight": 0.21,
+      "Sex": "female",
       "Macrosample IDs": [
         "G080bJ",
         "G080bM",
@@ -1140,6 +1225,7 @@
       "Biosample accession": "SAMEA118545946",
       "Treatment": "TG4",
       "Weight": 0.305,
+      "Sex": "male",
       "Macrosample IDs": [
         "G081bJ",
         "G081bM",
@@ -1150,6 +1236,7 @@
       "Biosample accession": "SAMEA118545947",
       "Treatment": "TG4",
       "Weight": 0.3,
+      "Sex": "male",
       "Macrosample IDs": [
         "G082bJ",
         "G082bM",
@@ -1160,6 +1247,7 @@
       "Biosample accession": "SAMEA118545948",
       "Treatment": "TG4",
       "Weight": 0.335,
+      "Sex": "female",
       "Macrosample IDs": [
         "G084bJ",
         "G084bM",
@@ -1170,6 +1258,7 @@
       "Biosample accession": "SAMEA118545954",
       "Treatment": "TG4",
       "Weight": 0.72,
+      "Sex": "female",
       "Macrosample IDs": [
         "G085cJ",
         "G085cM",
@@ -1180,6 +1269,7 @@
       "Biosample accession": "SAMEA118545950",
       "Treatment": "TG4",
       "Weight": 0.74,
+      "Sex": "male",
       "Macrosample IDs": [
         "G086cJ",
         "G086cM",
@@ -1190,6 +1280,7 @@
       "Biosample accession": "SAMEA118545951",
       "Treatment": "TG4",
       "Weight": 0.705,
+      "Sex": "male",
       "Macrosample IDs": [
         "G087cJ",
         "G087cM",
@@ -1200,6 +1291,7 @@
       "Biosample accession": "SAMEA118545952",
       "Treatment": "TG4",
       "Weight": 0.54,
+      "Sex": "female",
       "Macrosample IDs": [
         "G088cJ",
         "G088cM",
@@ -1210,6 +1302,7 @@
       "Biosample accession": "SAMEA118545953",
       "Treatment": "TG4",
       "Weight": 0.67,
+      "Sex": "female",
       "Macrosample IDs": [
         "G089cJ",
         "G089cM",
@@ -1220,6 +1313,7 @@
       "Biosample accession": "SAMEA118545959",
       "Treatment": "TG4",
       "Weight": 1.3,
+      "Sex": "male",
       "Macrosample IDs": [
         "G090dJ",
         "G090dM",
@@ -1230,6 +1324,7 @@
       "Biosample accession": "SAMEA118545955",
       "Treatment": "TG4",
       "Weight": 1,
+      "Sex": "male",
       "Macrosample IDs": [
         "G091dJ",
         "G091dM",
@@ -1240,6 +1335,7 @@
       "Biosample accession": "SAMEA118545956",
       "Treatment": "TG4",
       "Weight": 1,
+      "Sex": "female",
       "Macrosample IDs": [
         "G092dJ",
         "G092dM",
@@ -1250,6 +1346,7 @@
       "Biosample accession": "SAMEA118545957",
       "Treatment": "TG4",
       "Weight": 1.2,
+      "Sex": "male",
       "Macrosample IDs": [
         "G093dJ",
         "G093dM",
@@ -1260,6 +1357,7 @@
       "Biosample accession": "SAMEA118545958",
       "Treatment": "TG4",
       "Weight": 1.2,
+      "Sex": "female",
       "Macrosample IDs": [
         "G094dJ",
         "G094dM",
@@ -1270,6 +1368,7 @@
       "Biosample accession": "SAMEA118545964",
       "Treatment": "TG4",
       "Weight": 1.76,
+      "Sex": "female",
       "Macrosample IDs": [
         "G095eJ",
         "G095eM",
@@ -1280,6 +1379,7 @@
       "Biosample accession": "SAMEA118545960",
       "Treatment": "TG4",
       "Weight": 1.5,
+      "Sex": "female",
       "Macrosample IDs": [
         "G096eJ",
         "G096eM",
@@ -1290,6 +1390,7 @@
       "Biosample accession": "SAMEA118545961",
       "Treatment": "TG4",
       "Weight": 1.9,
+      "Sex": "male",
       "Macrosample IDs": [
         "G097eJ",
         "G097eM",
@@ -1300,6 +1401,7 @@
       "Biosample accession": "SAMEA118545962",
       "Treatment": "TG4",
       "Weight": 1.7,
+      "Sex": "male",
       "Macrosample IDs": [
         "G098eJ",
         "G098eM",
@@ -1310,6 +1412,7 @@
       "Biosample accession": "SAMEA118545963",
       "Treatment": "TG4",
       "Weight": 1.51,
+      "Sex": "female",
       "Macrosample IDs": [
         "G099eJ",
         "G099eM",
@@ -1320,6 +1423,7 @@
       "Biosample accession": "SAMEA118545965",
       "Treatment": "TG5",
       "Weight": 0.145,
+      "Sex": "male",
       "Macrosample IDs": [
         "G101aJ",
         "G101aM",
@@ -1330,6 +1434,7 @@
       "Biosample accession": "SAMEA118545966",
       "Treatment": "TG5",
       "Weight": 0.09,
+      "Sex": "male",
       "Macrosample IDs": [
         "G102aM",
         "G102aN"
@@ -1339,6 +1444,7 @@
       "Biosample accession": "SAMEA118545971",
       "Treatment": "TG5",
       "Weight": 0.31,
+      "Sex": "male",
       "Macrosample IDs": [
         "G103bJ",
         "G103bM",
@@ -1349,6 +1455,7 @@
       "Biosample accession": "SAMEA118545967",
       "Treatment": "TG5",
       "Weight": 0.08,
+      "Sex": "female",
       "Macrosample IDs": [
         "G104aJ",
         "G104aM",
@@ -1359,6 +1466,7 @@
       "Biosample accession": "SAMEA118545872",
       "Treatment": "TG5",
       "Weight": 0.205,
+      "Sex": "female",
       "Macrosample IDs": [
         "G105bJ",
         "G105bM",
@@ -1369,6 +1477,7 @@
       "Biosample accession": "SAMEA118545968",
       "Treatment": "TG5",
       "Weight": 0.315,
+      "Sex": "female",
       "Macrosample IDs": [
         "G106bJ",
         "G106bM",
@@ -1379,6 +1488,7 @@
       "Biosample accession": "SAMEA118545969",
       "Treatment": "TG5",
       "Weight": 0.31,
+      "Sex": "male",
       "Macrosample IDs": [
         "G107bJ",
         "G107bM",
@@ -1389,6 +1499,7 @@
       "Biosample accession": "SAMEA118545970",
       "Treatment": "TG5",
       "Weight": 0.275,
+      "Sex": "female",
       "Macrosample IDs": [
         "G108bJ",
         "G108bM",
@@ -1399,6 +1510,7 @@
       "Biosample accession": "SAMEA118545976",
       "Treatment": "TG5",
       "Weight": 0.71,
+      "Sex": "male",
       "Macrosample IDs": [
         "G110cJ",
         "G110cM",
@@ -1409,6 +1521,7 @@
       "Biosample accession": "SAMEA118545972",
       "Treatment": "TG5",
       "Weight": 0.785,
+      "Sex": "male",
       "Macrosample IDs": [
         "G111cJ",
         "G111cM",
@@ -1419,6 +1532,7 @@
       "Biosample accession": "SAMEA118545973",
       "Treatment": "TG5",
       "Weight": 0.695,
+      "Sex": "male",
       "Macrosample IDs": [
         "G112cJ",
         "G112cM",
@@ -1429,6 +1543,7 @@
       "Biosample accession": "SAMEA118545974",
       "Treatment": "TG5",
       "Weight": 0.845,
+      "Sex": "male",
       "Macrosample IDs": [
         "G113cJ",
         "G113cM",
@@ -1439,6 +1554,7 @@
       "Biosample accession": "SAMEA118545975",
       "Treatment": "TG5",
       "Weight": 0.635,
+      "Sex": "male",
       "Macrosample IDs": [
         "G114cJ",
         "G114cM",
@@ -1449,6 +1565,7 @@
       "Biosample accession": "SAMEA118545978",
       "Treatment": "TG5",
       "Weight": 1.3,
+      "Sex": "male",
       "Macrosample IDs": [
         "G115dJ",
         "G115dM",
@@ -1459,6 +1576,7 @@
       "Biosample accession": "SAMEA118545977",
       "Treatment": "TG5",
       "Weight": 1.225,
+      "Sex": "female",
       "Macrosample IDs": [
         "G116dJ",
         "G116dM",
@@ -1469,6 +1587,7 @@
       "Biosample accession": "SAMEA118545979",
       "Treatment": "TG5",
       "Weight": 1.37,
+      "Sex": "male",
       "Macrosample IDs": [
         "G118dJ",
         "G118dM",
@@ -1479,6 +1598,7 @@
       "Biosample accession": "SAMEA118545980",
       "Treatment": "TG5",
       "Weight": 1.175,
+      "Sex": "male",
       "Macrosample IDs": [
         "G119dJ",
         "G119dM",
@@ -1489,6 +1609,7 @@
       "Biosample accession": "SAMEA118545981",
       "Treatment": "TG5",
       "Weight": 1.28,
+      "Sex": "female",
       "Macrosample IDs": [
         "G120dJ",
         "G120dM",
@@ -1499,6 +1620,7 @@
       "Biosample accession": "SAMEA118545982",
       "Treatment": "TG5",
       "Weight": 2,
+      "Sex": "male",
       "Macrosample IDs": [
         "G121eJ",
         "G121eM",
@@ -1509,6 +1631,7 @@
       "Biosample accession": "SAMEA118545983",
       "Treatment": "TG5",
       "Weight": 1.2,
+      "Sex": "female",
       "Macrosample IDs": [
         "G122eJ",
         "G122eM",
@@ -1519,6 +1642,7 @@
       "Biosample accession": "SAMEA118545984",
       "Treatment": "TG5",
       "Weight": 1.5,
+      "Sex": "female",
       "Macrosample IDs": [
         "G123eJ",
         "G123eM",
@@ -1529,6 +1653,7 @@
       "Biosample accession": "SAMEA118545985",
       "Treatment": "TG5",
       "Weight": 2,
+      "Sex": "male",
       "Macrosample IDs": [
         "G124eJ",
         "G124eM",
@@ -1539,6 +1664,7 @@
       "Biosample accession": "SAMEA118545986",
       "Treatment": "TG5",
       "Weight": 2,
+      "Sex": "male",
       "Macrosample IDs": [
         "G125eJ",
         "G125eM",
@@ -1549,6 +1675,7 @@
       "Biosample accession": "SAMEA120503903",
       "Treatment": "TI1",
       "Weight": 142.87,
+      "Sex": "female",
       "Macrosample IDs": [
         "I001dE",
         "I001dH",
@@ -1559,6 +1686,7 @@
       "Biosample accession": "SAMEA120503904",
       "Treatment": "TI1",
       "Weight": 132.69,
+      "Sex": "female",
       "Macrosample IDs": [
         "I002dE",
         "I002dH",
@@ -1569,6 +1697,7 @@
       "Biosample accession": "SAMEA120503905",
       "Treatment": "TI1",
       "Weight": 136.31,
+      "Sex": "female",
       "Macrosample IDs": [
         "I004dE",
         "I004dH",
@@ -1579,6 +1708,7 @@
       "Biosample accession": "SAMEA120503906",
       "Treatment": "TI1",
       "Weight": 143.47,
+      "Sex": "female",
       "Macrosample IDs": [
         "I006dE",
         "I006dH",
@@ -1589,6 +1719,7 @@
       "Biosample accession": "SAMEA120503907",
       "Treatment": "TI1",
       "Weight": 146.92,
+      "Sex": "female",
       "Macrosample IDs": [
         "I009dE",
         "I009dH",
@@ -1599,6 +1730,7 @@
       "Biosample accession": "SAMEA120503908",
       "Treatment": "TI1",
       "Weight": 152.21,
+      "Sex": "female",
       "Macrosample IDs": [
         "I010dE",
         "I010dH",
@@ -1609,6 +1741,7 @@
       "Biosample accession": "SAMEA120503909",
       "Treatment": "TI3",
       "Weight": 130.35,
+      "Sex": "female",
       "Macrosample IDs": [
         "I021dE",
         "I021dH",
@@ -1619,6 +1752,7 @@
       "Biosample accession": "SAMEA120503910",
       "Treatment": "TI3",
       "Weight": 157.85,
+      "Sex": "female",
       "Macrosample IDs": [
         "I022dE",
         "I022dH",
@@ -1629,6 +1763,7 @@
       "Biosample accession": "SAMEA120503911",
       "Treatment": "TI3",
       "Weight": 135.94,
+      "Sex": "female",
       "Macrosample IDs": [
         "I023dE",
         "I023dH",
@@ -1639,6 +1774,7 @@
       "Biosample accession": "SAMEA120503912",
       "Treatment": "TI3",
       "Weight": 122.61,
+      "Sex": "female",
       "Macrosample IDs": [
         "I026dE",
         "I026dH",
@@ -1649,6 +1785,7 @@
       "Biosample accession": "SAMEA120503913",
       "Treatment": "TI3",
       "Weight": 134.52,
+      "Sex": "female",
       "Macrosample IDs": [
         "I028dE",
         "I028dH",
@@ -1659,6 +1796,7 @@
       "Biosample accession": "SAMEA120503914",
       "Treatment": "TI3",
       "Weight": 142.69,
+      "Sex": "female",
       "Macrosample IDs": [
         "I029dE",
         "I029dH",
@@ -1669,6 +1807,7 @@
       "Biosample accession": "SAMEA120503915",
       "Treatment": "TI1",
       "Weight": 147.63,
+      "Sex": "female",
       "Macrosample IDs": [
         "I031dE",
         "I031dH",
@@ -1679,6 +1818,7 @@
       "Biosample accession": "SAMEA120503916",
       "Treatment": "TI1",
       "Weight": 120.95,
+      "Sex": "female",
       "Macrosample IDs": [
         "I032dE",
         "I032dH",
@@ -1689,6 +1829,7 @@
       "Biosample accession": "SAMEA120503917",
       "Treatment": "TI1",
       "Weight": 141.07,
+      "Sex": "female",
       "Macrosample IDs": [
         "I034dE",
         "I034dH",
@@ -1698,6 +1839,7 @@
     "I038": {
       "Biosample accession": "SAMEA120503918",
       "Treatment": "TI1",
+      "Sex": "female",
       "Macrosample IDs": [
         "I038dE",
         "I038dH",
@@ -1708,6 +1850,7 @@
       "Biosample accession": "SAMEA120503919",
       "Treatment": "TI1",
       "Weight": 138.43,
+      "Sex": "female",
       "Macrosample IDs": [
         "I039dE",
         "I039dH",
@@ -1718,6 +1861,7 @@
       "Biosample accession": "SAMEA120503920",
       "Treatment": "TI1",
       "Weight": 132.85,
+      "Sex": "female",
       "Macrosample IDs": [
         "I040dE",
         "I040dH",
@@ -1728,6 +1872,7 @@
       "Biosample accession": "SAMEA120503921",
       "Treatment": "TI3",
       "Weight": 125.74,
+      "Sex": "female",
       "Macrosample IDs": [
         "I052dE",
         "I052dH",
@@ -1738,6 +1883,7 @@
       "Biosample accession": "SAMEA120503922",
       "Treatment": "TI3",
       "Weight": 144.32,
+      "Sex": "female",
       "Macrosample IDs": [
         "I053dE",
         "I053dH",
@@ -1748,6 +1894,7 @@
       "Biosample accession": "SAMEA120503923",
       "Treatment": "TI3",
       "Weight": 140.1,
+      "Sex": "female",
       "Macrosample IDs": [
         "I054dE",
         "I054dH",
@@ -1758,6 +1905,7 @@
       "Biosample accession": "SAMEA120503924",
       "Treatment": "TI3",
       "Weight": 138.43,
+      "Sex": "female",
       "Macrosample IDs": [
         "I056dE",
         "I056dH",
@@ -1768,6 +1916,7 @@
       "Biosample accession": "SAMEA120503925",
       "Treatment": "TI3",
       "Weight": 128.63,
+      "Sex": "female",
       "Macrosample IDs": [
         "I057dE",
         "I057dH",
@@ -1778,6 +1927,7 @@
       "Biosample accession": "SAMEA120503926",
       "Treatment": "TI3",
       "Weight": 138.98,
+      "Sex": "female",
       "Macrosample IDs": [
         "I060dE",
         "I060dH",
@@ -1788,6 +1938,7 @@
       "Biosample accession": "SAMEA120505592",
       "Treatment": "TJ1",
       "Weight": 21.7,
+      "Sex": "female",
       "Macrosample IDs": [
         "J001aM",
         "J001bM",
@@ -1803,6 +1954,7 @@
       "Biosample accession": "SAMEA120505593",
       "Treatment": "TJ2",
       "Weight": 22.42,
+      "Sex": "female",
       "Macrosample IDs": [
         "J002aM",
         "J002bM",
@@ -1818,6 +1970,7 @@
       "Biosample accession": "SAMEA120505594",
       "Treatment": "TJ2",
       "Weight": 23.19,
+      "Sex": "female",
       "Macrosample IDs": [
         "J003aM",
         "J003bM",
@@ -1833,6 +1986,7 @@
       "Biosample accession": "SAMEA120505595",
       "Treatment": "TJ1",
       "Weight": 27.35,
+      "Sex": "female",
       "Macrosample IDs": [
         "J004aM",
         "J004bM",
@@ -1848,6 +2002,7 @@
       "Biosample accession": "SAMEA120505596",
       "Treatment": "TJ1",
       "Weight": 20.92,
+      "Sex": "female",
       "Macrosample IDs": [
         "J005aM",
         "J005bM",
@@ -1863,6 +2018,7 @@
       "Biosample accession": "SAMEA120505597",
       "Treatment": "TJ2",
       "Weight": 20.66,
+      "Sex": "female",
       "Macrosample IDs": [
         "J006aM",
         "J006bM",
@@ -1878,6 +2034,7 @@
       "Biosample accession": "SAMEA120505598",
       "Treatment": "TJ2",
       "Weight": 21.79,
+      "Sex": "female",
       "Macrosample IDs": [
         "J007aM",
         "J007bM",
@@ -1893,6 +2050,7 @@
       "Biosample accession": "SAMEA120505599",
       "Treatment": "TJ1",
       "Weight": 27.22,
+      "Sex": "female",
       "Macrosample IDs": [
         "J008aM",
         "J008bM",
@@ -1908,6 +2066,7 @@
       "Biosample accession": "SAMEA120505600",
       "Treatment": "TJ1",
       "Weight": 22.6,
+      "Sex": "female",
       "Macrosample IDs": [
         "J009aM",
         "J009bM",
@@ -1923,6 +2082,7 @@
       "Biosample accession": "SAMEA120505601",
       "Treatment": "TJ2",
       "Weight": 19.79,
+      "Sex": "female",
       "Macrosample IDs": [
         "J010aM",
         "J010bM",
@@ -1938,6 +2098,7 @@
       "Biosample accession": "SAMEA120505602",
       "Treatment": "TJ2",
       "Weight": 18.32,
+      "Sex": "female",
       "Macrosample IDs": [
         "J011aM",
         "J011bM",
@@ -1953,6 +2114,7 @@
       "Biosample accession": "SAMEA120505603",
       "Treatment": "TJ2",
       "Weight": 24.28,
+      "Sex": "female",
       "Macrosample IDs": [
         "J012aM",
         "J012bM",
@@ -1968,6 +2130,7 @@
       "Biosample accession": "SAMEA120505604",
       "Treatment": "TJ1",
       "Weight": 22.13,
+      "Sex": "female",
       "Macrosample IDs": [
         "J013aM",
         "J013bM",
@@ -1983,6 +2146,7 @@
       "Biosample accession": "SAMEA120505605",
       "Treatment": "TJ2",
       "Weight": 21.95,
+      "Sex": "female",
       "Macrosample IDs": [
         "J014aM",
         "J014bM",
@@ -1998,6 +2162,7 @@
       "Biosample accession": "SAMEA120505606",
       "Treatment": "TJ2",
       "Weight": 23.21,
+      "Sex": "female",
       "Macrosample IDs": [
         "J015aM",
         "J015bM",
@@ -2013,6 +2178,7 @@
       "Biosample accession": "SAMEA120505607",
       "Treatment": "TJ1",
       "Weight": 27.78,
+      "Sex": "female",
       "Macrosample IDs": [
         "J016aM",
         "J016bM",
@@ -2028,6 +2194,7 @@
       "Biosample accession": "SAMEA120505608",
       "Treatment": "TJ1",
       "Weight": 17.16,
+      "Sex": "female",
       "Macrosample IDs": [
         "J017aM",
         "J017bM",
@@ -2043,6 +2210,7 @@
       "Biosample accession": "SAMEA120505609",
       "Treatment": "TJ2",
       "Weight": 23.64,
+      "Sex": "female",
       "Macrosample IDs": [
         "J018aM",
         "J018bM",
@@ -2058,6 +2226,7 @@
       "Biosample accession": "SAMEA120505610",
       "Treatment": "TJ1",
       "Weight": 22.87,
+      "Sex": "female",
       "Macrosample IDs": [
         "J019aM",
         "J019bM",
@@ -2073,6 +2242,7 @@
       "Biosample accession": "SAMEA120505611",
       "Treatment": "TJ1",
       "Weight": 20.96,
+      "Sex": "female",
       "Macrosample IDs": [
         "J020aM",
         "J020bM",
@@ -2088,6 +2258,7 @@
       "Biosample accession": "SAMEA120505612",
       "Treatment": "TJ1",
       "Weight": 21.22,
+      "Sex": "female",
       "Macrosample IDs": [
         "J021aM",
         "J021bM",
@@ -2103,6 +2274,7 @@
       "Biosample accession": "SAMEA120505613",
       "Treatment": "TJ2",
       "Weight": 22.31,
+      "Sex": "female",
       "Macrosample IDs": [
         "J022aM",
         "J022bM",
@@ -2118,6 +2290,7 @@
       "Biosample accession": "SAMEA120505614",
       "Treatment": "TJ2",
       "Weight": 23.62,
+      "Sex": "female",
       "Macrosample IDs": [
         "J023aM",
         "J023bM",
@@ -2133,6 +2306,7 @@
       "Biosample accession": "SAMEA120505615",
       "Treatment": "TJ1",
       "Weight": 22.54,
+      "Sex": "female",
       "Macrosample IDs": [
         "J024aM",
         "J024bM",
@@ -2147,6 +2321,7 @@
     "K062": {
       "Biosample accession": "SAMEA120503927",
       "Treatment": "TK1",
+      "Sex": "female",
       "Macrosample IDs": [
         "K062dE",
         "K062dH",
@@ -2156,6 +2331,7 @@
     "K063": {
       "Biosample accession": "SAMEA120503928",
       "Treatment": "TK1",
+      "Sex": "female",
       "Macrosample IDs": [
         "K063dH",
         "K063dI",
@@ -2165,6 +2341,7 @@
     "K064": {
       "Biosample accession": "SAMEA120503929",
       "Treatment": "TK1",
+      "Sex": "female",
       "Macrosample IDs": [
         "K064dH",
         "K064dE",
@@ -2174,6 +2351,7 @@
     "K067": {
       "Biosample accession": "SAMEA120503930",
       "Treatment": "TK1",
+      "Sex": "female",
       "Macrosample IDs": [
         "K067dH",
         "K067dE",
@@ -2183,6 +2361,7 @@
     "K069": {
       "Biosample accession": "SAMEA120503931",
       "Treatment": "TK1",
+      "Sex": "female",
       "Macrosample IDs": [
         "K069dE",
         "K069dH",
@@ -2192,6 +2371,7 @@
     "K070": {
       "Biosample accession": "SAMEA120503932",
       "Treatment": "TK1",
+      "Sex": "female",
       "Macrosample IDs": [
         "K070dE",
         "K070dI",
@@ -2201,6 +2381,7 @@
     "K071": {
       "Biosample accession": "SAMEA120503933",
       "Treatment": "TK1",
+      "Sex": "female",
       "Macrosample IDs": [
         "K071dI",
         "K071dE",
@@ -2210,6 +2391,7 @@
     "K073": {
       "Biosample accession": "SAMEA120503934",
       "Treatment": "TK1",
+      "Sex": "female",
       "Macrosample IDs": [
         "K073dE",
         "K073dH",
@@ -2219,6 +2401,7 @@
     "K074": {
       "Biosample accession": "SAMEA120503935",
       "Treatment": "TK1",
+      "Sex": "female",
       "Macrosample IDs": [
         "K074dH",
         "K074dE",
@@ -2228,6 +2411,7 @@
     "K077": {
       "Biosample accession": "SAMEA120503936",
       "Treatment": "TK1",
+      "Sex": "female",
       "Macrosample IDs": [
         "K077dI",
         "K077dE",
@@ -2237,6 +2421,7 @@
     "K079": {
       "Biosample accession": "SAMEA120503937",
       "Treatment": "TK1",
+      "Sex": "female",
       "Macrosample IDs": [
         "K079dH",
         "K079dI",
@@ -2246,6 +2431,7 @@
     "K080": {
       "Biosample accession": "SAMEA120503938",
       "Treatment": "TK1",
+      "Sex": "female",
       "Macrosample IDs": [
         "K080dH",
         "K080dI",
@@ -2255,6 +2441,7 @@
     "K101": {
       "Biosample accession": "SAMEA120503939",
       "Treatment": "TK3",
+      "Sex": "female",
       "Macrosample IDs": [
         "K101dI",
         "K101dE",
@@ -2264,6 +2451,7 @@
     "K103": {
       "Biosample accession": "SAMEA120503940",
       "Treatment": "TK3",
+      "Sex": "female",
       "Macrosample IDs": [
         "K103dE",
         "K103dH",
@@ -2273,6 +2461,7 @@
     "K105": {
       "Biosample accession": "SAMEA120503941",
       "Treatment": "TK3",
+      "Sex": "female",
       "Macrosample IDs": [
         "K105dE",
         "K105dI",
@@ -2282,6 +2471,7 @@
     "K106": {
       "Biosample accession": "SAMEA120503942",
       "Treatment": "TK3",
+      "Sex": "female",
       "Macrosample IDs": [
         "K106dE",
         "K106dI",
@@ -2291,6 +2481,7 @@
     "K107": {
       "Biosample accession": "SAMEA120503943",
       "Treatment": "TK3",
+      "Sex": "female",
       "Macrosample IDs": [
         "K107dI",
         "K107dE",
@@ -2300,6 +2491,7 @@
     "K109": {
       "Biosample accession": "SAMEA120503944",
       "Treatment": "TK3",
+      "Sex": "female",
       "Macrosample IDs": [
         "K109dH",
         "K109dI",
@@ -2309,6 +2501,7 @@
     "K113": {
       "Biosample accession": "SAMEA120503945",
       "Treatment": "TK3",
+      "Sex": "female",
       "Macrosample IDs": [
         "K113dE",
         "K113dH",
@@ -2318,6 +2511,7 @@
     "K114": {
       "Biosample accession": "SAMEA120503946",
       "Treatment": "TK3",
+      "Sex": "female",
       "Macrosample IDs": [
         "K114dH",
         "K114dE",
@@ -2327,6 +2521,7 @@
     "K115": {
       "Biosample accession": "SAMEA120503947",
       "Treatment": "TK3",
+      "Sex": "female",
       "Macrosample IDs": [
         "K115dE",
         "K115dH",
@@ -2336,6 +2531,7 @@
     "K116": {
       "Biosample accession": "SAMEA120503948",
       "Treatment": "TK3",
+      "Sex": "female",
       "Macrosample IDs": [
         "K116dI",
         "K116dE",
@@ -2345,6 +2541,7 @@
     "K117": {
       "Biosample accession": "SAMEA120503949",
       "Treatment": "TK3",
+      "Sex": "female",
       "Macrosample IDs": [
         "K117dE",
         "K117dH",
@@ -2354,6 +2551,7 @@
     "K120": {
       "Biosample accession": "SAMEA120503950",
       "Treatment": "TK3",
+      "Sex": "female",
       "Macrosample IDs": [
         "K120dH",
         "K120dE",

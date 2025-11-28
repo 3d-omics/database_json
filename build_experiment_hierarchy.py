@@ -98,7 +98,8 @@ def generate_experiment_hierarchy(
         biosample = fields.get("Biosample accession")
         linked_experiments: List[str] = fields.get("Experiment", []) or []
         treatment_code = fields.get("Treatment_flat")
-        weight = fields.get("Weight")x
+        weight = fields.get("Weight")
+        sex = fields.get("Sex")
 
         if not (specimen_id and biosample and linked_experiments):
             continue
@@ -111,6 +112,8 @@ def generate_experiment_hierarchy(
             )
         if weight is not None:
             individual_data["Weight"] = weight
+        if sex:
+            individual_data["Sex"] = sex[0] if isinstance(sex, list) else sex
 
         individuals[specimen_id] = individual_data
 
